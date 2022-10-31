@@ -2,7 +2,7 @@ import tkinter
 import random
 import math
 from typing import Counter
-mx = 1
+mx = 0
 my = 0
 cx = 0
 cy = 0
